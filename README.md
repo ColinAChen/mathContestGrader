@@ -2,7 +2,7 @@
 
 Final project for my C and Assembly class during my senior year of high school. 
 
-Designed to automaticall grade Carlmont High School Tuesday math contests by recognizing handwritten answers and comparing them to user inputted answers.
+Designed to automatically grade Carlmont High School Tuesday math contests by recognizing handwritten answers and comparing them to user inputted answers.
 
 ## What I learned 
 * Programming in Python
